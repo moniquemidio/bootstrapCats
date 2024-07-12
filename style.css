@@ -1,0 +1,25 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.my-carousel {
+    width: 600px; /* Defina a largura desejada */
+    height: 400px; /* Defina a altura desejada */
+    overflow: hidden; /* Para evitar que o conteúdo transborde */
+}
+
+.my-carousel .carousel-item img {
+    width: 100%; /* Manter a imagem ocupando toda a largura do contêiner */
+    height: 100%; /* Ajusta a altura automaticamente */
+    object-fit: cover; 
+}
+
+body {
+    background-color: #DCDCDC;
+}
+
+.principal {
+    background-color: white;
+}
