@@ -23,3 +23,8 @@ body {
 .principal {
     background-color: white;
 }
+
+.botaoCat {
+    background-color: rgba(99, 104, 104, 0.466);
+    border: none;
+}
