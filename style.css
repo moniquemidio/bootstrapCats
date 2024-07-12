@@ -28,3 +28,7 @@ body {
     background-color: rgba(99, 104, 104, 0.466);
     border: none;
 }
+
+#titulo {
+    color: black;
+}
